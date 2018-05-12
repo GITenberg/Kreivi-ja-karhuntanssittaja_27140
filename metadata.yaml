@@ -1,0 +1,36 @@
+_repo: Kreivi-ja-karhuntanssittaja_27140
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Richter, G. E.
+    gutenberg_agent_id: '32487'
+    url: http://www.gutenberg.org/2009/agents/32487
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hoffmann, Franz
+    birthdate: 1814
+    deathdate: 1882
+    gutenberg_agent_id: '31340'
+    url: http://www.gutenberg.org/2009/agents/31340
+description: ''
+gutenberg_issued: '2008-11-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27140'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Inheritance and succession -- Fiction'
+- !lcsh 'Boys -- Fiction'
+- !lcsh 'Fathers and sons -- Fiction'
+- !lcsh 'German fiction -- Translations into Finnish'
+- !lcc 'PT'
+title: Kreivi ja karhuntanssittaja
+url: http://www.gutenberg.org/ebooks/27140
