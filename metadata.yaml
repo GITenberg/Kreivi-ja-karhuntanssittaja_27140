@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '31340'
     url: http://www.gutenberg.org/2009/agents/31340
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27140#Kreivi-ja-karhuntanssittaja
 gutenberg_issued: '2008-11-03'
 gutenberg_type: Text
 identifiers:
